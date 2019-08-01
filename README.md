@@ -1,4 +1,4 @@
-# Discrete-Math
+# Discrete_Math_Set_Operations
 Тема: «Функции теории множеств. »
 
 Задание :
